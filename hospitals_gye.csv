@@ -1,0 +1,14 @@
+,lat,lon,province,city,name,type,adress,max_capacity,current_patients
+1,-2.2338,-79.8996,Guayas,Guayaquil,Hospital Jose Gregorio,Public,Guayaquil 090202,500,500
+2,-2.2103,-79.8968,Guayas,Guayaquil,Centro Medico Serli,Private,"mz. 2236 solar 68, Calle 7, Guayaquil 090610",600,700
+3,-2.2031,-79.8929,Guayas,Guayaquil,Hospital Francisco de Ycaza Bustamante,Public,"Av. Quito, Guayaquil 090315,",500,600
+4,-2.2118,-79.8902,Guayas,Guayaquil,Fundacion Nahim Isaias,Public,"Lorenzo de Garaycoa 3808, Guayaquil 090101",500,600
+5,-2.2082,-79.9264,Guayas,Guayaquil,Hospital Santa Marianita,Public,"Calle 34 South, Guayaquil 090417",300,400
+6,-2.2693,-79.9029,Guayas,Guayaquil,Hospital Naval,Private,Guayaquil 090208,1000,800
+7,-2.2321,-79.8977,Guayas,Guayaquil,Hospital Teodoro Maldonado Carbo,Public,"Av. 25 de Julio, Guayaquil 090203",600,50
+8,-2.1855,-79.8804,Guayas,Guayaquil,Clinica Guayaquil,Private,"Calle 8 401, Guayaquil 090313",300,200
+9,-2.1836,-79.88,Guayas,Guayaquil,Hospital Luis Vernaza,Public,"Loja 700, Guayaquil 090313",800,300
+10,-2.1739,-79.8804,Guayas,Guayaquil,Hospital de Solca,Public,"Avda. Pedro Menendez Gilbert, junto a la Cdla, Dr. Juan Tanca Marengo, Guayaquil 090505",900,500
+11,-2.0964,-79.9466,Guayas,Guayaquil,Hospital Universitario,Public,Calle 24A NO,950,800
+12,-2.1739,-79.8525,Guayas,Duran,Hospital Duran,Public,"1er Paseo 23A N-O 10, Guayaquil 090112",300,200
+13,-2.1382,-79.8644,Guayas,Samborondon,Clinica Kennedy Samborondon,Private,"Samborondon 092301,",500,300
